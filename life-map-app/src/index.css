@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --bg-primary: #0a0e27;
+  --bg-secondary: #131836;
+  --bg-card: #1a2040;
+  --accent: #00d4ff;
+  --gold: #ffd700;
+  --health: #00e676;
+  --career: #448aff;
+  --finance: #ffd740;
+  --family: #ff6090;
+  --growth: #b388ff;
+  --experience: #ff9100;
+  --community: #69f0ae;
+  --text: #ffffff;
+  --text-dim: #8892b0;
+  --text-muted: #4a5280;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', -apple-system, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text);
+  overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 3px;
+}

@@ -1,0 +1,556 @@
+Over the past few weeks, Anthropic has 
+ been shipping new features for Claude 
+ like crazy. Memory, computer use, 
+ dispatch, co-work projects, scheduled 
+ tasks. People are going nuts, and I am 
+ too, frankly. And honestly, you might 
+ have missed a lot of this because things 
+ are moving so fast right now. So, in 
+ this video, I'm going to break down 
+ exactly what each of these new features 
+ are, show you how to set them up, and 
+ walk you through seven real business use 
+ cases that you can start using today 
+ with these new features in Claude. Okay, 
+ so before we get to the use cases, the 
+ first new feature I want to talk about 
+ is memory 2.0, as people are calling it. 
+ Now, Claude has had memory for a while. 
+ Back in August, they added the ability 
+ to search and reference past chats, 
+ which is great, but it was more on 
+ demand. Claude would only pull up past 
+ conversations if you specifically asked 
+ it to. And what's changed is automatic 
+ memory. Claude now synthesizes your 
+ conversations every 24 hours into a 
+ memory summary that loads into every new 
+ conversation that you start. It's on by 
+ default. And you can look at this by So, 
+ I'm in Cloud Code right now. So, I'm 
+ going to type in forward/memory. And 
+ it's going to tell me to continue in 
+ terminal to edit the memory. I'm going 
+ to say go ahead. And so here we go. As 
+ you can see here where it says 
+ automemory is on. Again, it defaults to 
+ being on. And then as you can see here, 
+ right below it, it's called autodream. 
+ And yes, that's actually what Anthropic 
+ calls it, autodream. So basically 
+ between your sessions, how this works, 
+ Claude reviews its memory files, merges 
+ duplicates, removes stuff that's 
+ outdated, and reorganizes everything so 
+ the memory stays clean and current for 
+ you. It's making its memory of you more 
+ efficient. if you will. And here's why 
+ this matters for everything I'm about to 
+ show you today in this video. When 
+ Claude's running tasks on a reoccurring 
+ basis, for example, it needs to actually 
+ know your business. So, think of these 
+ memory updates as sort of the 
+ foundation. Everything else is built on 
+ top of it. And speaking of memory, if 
+ you're watching this video right now and 
+ you're thinking, I just want AI to do 
+ more of my day-to-day work so that I can 
+ focus more on my zone of genius. 
+ Honestly, that's a huge portion of my 
+ audience. I built an app for that exact 
+ problem here inside my AI playbook 
+ membership and it's called the your zone 
+ of genius app. You get an AI team that 
+ is completely customized to you and your 
+ business that takes care of everything 
+ in your business that's not in your zone 
+ of genius. There's a 7-day free trial to 
+ the membership where you get access to 
+ the app and the link is in the 
+ description below. All right, for the 
+ first use case, this is what I call the 
+ weekly CEO review that gets smarter 
+ every single week and we're going to use 
+ the new Claude feature in co-work called 
+ co-work projects. And this is a big one. 
+ Now, you might already be using cloud 
+ projects, right? And if you are, you're 
+ probably thinking, "Well, how are 
+ co-work projects different from the 
+ projects I'm already using in normal 
+ Claude chat." So, let me be really clear 
+ about the differences here. With regular 
+ Cloud projects, you upload files, you 
+ set the context, give it instructions, 
+ and then you chat with Claude inside 
+ that project. But, you are still doing 
+ everything. You're asking the questions, 
+ you're giving the instructions, you're 
+ driving the conversation. Co-work 
+ projects, on the other hand, are 
+ different. You assign Claude a task and 
+ it'll go do it. But here's the really 
+ important distinction. Co-work projects 
+ have memory. So every time you run a 
+ task inside that project, Claude 
+ remembers what happened last time. And 
+ so here's how I'm using this. As I 
+ mentioned earlier, I've set up a co-work 
+ project for a weekly CEO review. So 
+ every week I have Claude pull all my key 
+ metrics in the business. I summarize 
+ what happened across the business and I 
+ compare it to the previous week. So I 
+ can make sure I'm in Claude Co-work. By 
+ the way, I'm using the Claude desktop 
+ app. So then I can just say run this 
+ week's report. Click go and it'll start 
+ the session. It'll run the weekly 
+ report. Okay. In a matter of seconds, 
+ it's generated the report for me. I just 
+ gave it fictional data on my business. 
+ But we can click here and view the 
+ report. And over here it says secretly 
+ CEO weekly review. Gives me the dates, 
+ headline, key numbers, green flags, 
+ watch list, focus, and breaks it all 
+ down. And then here's what it looks like 
+ inside the project after it has 
+ completed. So, because again, it's a 
+ co-work project, Claude's going to 
+ remember this for next week's review, 
+ it's going to know what the numbers are, 
+ and so it will show me the delta. It'll 
+ show me the week-over-week differences 
+ and so forth. That kind of insight only 
+ happens because Claude has the context 
+ of every previous run within a co-work 
+ project. Now, there's three different 
+ ways to create co-work projects. You can 
+ start one from inside co-work directly, 
+ which is where I am right now. So, I can 
+ just click on new project, and as you 
+ can see here, I can start from scratch. 
+ I can import a project from normal quote 
+ unquote cloud projects or I can use an 
+ existing folder where I have a project 
+ already going on for example that's 
+ living on my computer and you can also 
+ go into this is a little known thing 
+ here you can go into a regular cloud 
+ project and there's a button so I'm 
+ going to do that right now I'm going to 
+ go into normal cloud projects I'm going 
+ to click on my business brain thought 
+ partner and you'll notice here there is 
+ a start a task in co-work and what 
+ that'll do it'll as it says here create 
+ new task with context from my business 
+ brain thought partner. And now what it's 
+ done, it's kicked me over into Claude 
+ co-work and now it's going to use the 
+ context from that specific cloud 
+ project. Okay, use case number two is 
+ what I like to call the end of day 
+ handoff. And we're using the new feature 
+ called dispatch. And this one might be 
+ the most mind-blowing one on this list 
+ I'm sharing with you here today. So what 
+ is Claude dispatch? Dispatch lets you 
+ assign tasks to Claude from your phone 
+ while Claude works on your computer. 
+ Your phone becomes essentially a remote 
+ control, if you will, for an AI agent 
+ sitting at your computer. With regular 
+ co-work, you have to be at your desk to 
+ kick off a task, right? You're sitting 
+ at your computer. You give Claude a task 
+ and it goes and does it. Well, Dispatch 
+ removes that requirement. So, here's how 
+ to set this up. You go into the Claude 
+ desktop app like we've been working with 
+ here in the video. You open dispatch 
+ over here from the side panel. I'm in 
+ co-work by the way, and it will walk you 
+ through if you've not set this up. It'll 
+ walk you through connecting this to your 
+ phone. And then once you're connected, 
+ you've now got one persistent 
+ conversation thread that syncs across 
+ your devices. It's super cool. Now, when 
+ it comes to dispatch, I do want to be 
+ upfront about the big limitation. Your 
+ computer has to stay on and the cloud 
+ desktop app has to stay open for tasks 
+ to run. If your computer goes to sleep, 
+ whatever you ask it to do will stop. But 
+ there's a workaround. So, as you can see 
+ here inside the cloud desktop settings, 
+ when I click on dispatch, you can choose 
+ the keep awake option. So, you can see 
+ here when enabled, cloud will prevent 
+ your computer from going to sleep. So, 
+ you don't want it to stop when your 
+ computer goes to sleep or you close the 
+ laptop or what have you, turn this on. 
+ So, here's a dispatch use case that I'm 
+ really, really excited about. So, for 
+ example, I can go into my phone here and 
+ I can type in research three competitors 
+ pricing pages and build me a comparison 
+ spreadsheet. So, it'll probably ask me 
+ some clarifying questions, which is what 
+ I hope it would do. So, it's asking me 
+ if I wanted to pull different 
+ competitors. I'm going to say yes, and 
+ it's going to take a few minutes, and 
+ it'll deliver a full report to me. So, I 
+ could just essentially leave this now. I 
+ could turn it turn off my phone and my 
+ laptop, continue on with my dinner and 
+ come back either in the evening or the 
+ next morning and this I'll have this 
+ report waiting for me. Okay. And it's 
+ just completed this task for me. As you 
+ can see here in Dispatch on my laptop, 
+ this is the overview that it gives me. 
+ But if I go back into the actual co-work 
+ here, it shows the full task and all the 
+ research that it did. And also, I can 
+ look at the spreadsheet right here. So, 
+ I can click on this and this is the 
+ spreadsheet that it put together. And 
+ this would be waiting for me the the 
+ next morning when I sit down for work. 
+ And here's another example I could do. I 
+ could say organize my recents folder on 
+ my computer. Sort screenshots into 
+ screenshots, PDFs into documents, and 
+ delete anything older than 90 days. So 
+ I'm going to go ahead and put that into 
+ my phone into dispatch. So I would just 
+ confirm which folder that I wanted to do 
+ this for on my computer and it'll get to 
+ work. So hopefully you can see by this, 
+ this is a fundamentally different way to 
+ think about your workday. Dispatch isn't 
+ just clawed on your phone. It's cue real 
+ work from anywhere and have it done for 
+ you when you get back. Okay, for use 
+ case number three. So, I just showed you 
+ the end of day handoff. But dispatch 
+ gets even more powerful when you combine 
+ it with computer use, which I alluded to 
+ in that previous use case. So, picture 
+ this. You're out getting coffee. You 
+ pull out your phone, you're waiting in 
+ line, you open the dispatch thread, and 
+ you type in, "Go to my YouTube 
+ analytics, pull my last 10 videos 
+ performance data, and build me a 
+ spreadsheet with views, click-through 
+ rate, and average view duration." And 
+ for something like this kind of task, 
+ not to state the obvious, but you would 
+ want to be logged into whatever app that 
+ you wanted to access. So for me, I 
+ wanted to access my YouTube analytic. So 
+ I had to log in first and in order to 
+ give it access to it. And while it's 
+ working here, this is what's so exciting 
+ about dispatch plus computer use 
+ together. It's not just file tasks 
+ anymore. Claude can interact with 
+ websites and your connected tools 
+ triggered from your phone. And that's a 
+ level of delegation that just wasn't 
+ possible before. So here we are in 
+ dispatch. And you can see here we 
+ already set the keep awake and you want 
+ to turn on all browser actions and then 
+ also for computer use you want to go 
+ into open settings. So this is going to 
+ take you in the back end of claude under 
+ settings under general and you can see 
+ here where it says all allow all browser 
+ actions. You want to make sure you turn 
+ that on. Computer use is turned on. You 
+ can also add apps to deny access to 
+ specific apps here. So you can just 
+ click on the add app button and you can 
+ go through and select whatever apps you 
+ want. I also highly recommend 
+ familiarizing yourself with the security 
+ precautions when using Claude in Chrome. 
+ So you can look at using Claude in 
+ Chrome safely here. And then also you 
+ can go down here to the permissions. So 
+ Claude in Chrome permissions guide and 
+ it'll walk you through the different 
+ modes. Ask before acting, act without 
+ asking. So let me show you what that 
+ looks like. Over in co-work here, you'll 
+ see cloud code permissions where it says 
+ ask permissions, auto accept edits, plan 
+ mode. What I'd recommend that you do is 
+ do ask permissions, especially when 
+ you're first starting out. Okay. And my 
+ YouTube analytics task that I put into 
+ dispatch, as you can see in the screen 
+ here, has finished up. So, it gives me 
+ this nice little overview right here. 
+ And I'm going to click on the 
+ spreadsheet. And here is the spreadsheet 
+ it put together for me. And this 
+ actually looks really, really good. Now, 
+ what I can also do here now that it's 
+ done this step, I can tell it to analyze 
+ the spreadsheet to extract any learnings 
+ that I should have for new topics going 
+ forward. Okay. For use case number four, 
+ we're going to create a daily AI news 
+ digest delivered to my Slack every 
+ single morning. And we're going to use 
+ the new feature scheduled tasks in 
+ Chrome to do this. Scheduled tasks are 
+ essentially what they sound like. Inside 
+ Co-work, you can schedule any task to 
+ run on a reoccurring basis, whether 
+ that's daily, weekly, whatever cadence 
+ that you want. So, here I am in Co-work 
+ and I already have this set up. So, let 
+ me show you what this looks like. So 
+ again, if you're just starting from 
+ scratch, just click on new task, name 
+ your task, give it a little description 
+ here, and give it the prompt. I've 
+ already written up the full instructions 
+ for exactly what I want it to do. So 
+ what this is doing, it's looking in my 
+ AI newsletters folder in my Gmail and it 
+ will sort through and I've given certain 
+ criteria for the types of stories and 
+ news stories that I want to see. And so 
+ that's what the instructions are telling 
+ it to do. So I'm going to click on this. 
+ I've already created again. I'm going to 
+ click on run now. and it'll tell you 
+ that the that the task has started. So 
+ I'm going to click on view and you can 
+ see it working right here. So it's 
+ telling me that it found 18 newsletters. 
+ By the way, it's able to use Gmail and 
+ Slack, which is what I've asked it to 
+ do. So I can go into customize, for 
+ example, over here in the lefth hand 
+ column here, and I can click on 
+ connectors, and you'll see up here which 
+ connectors I currently have set up. So 
+ for example, Gmail and Slack. So it's 
+ working now, but normally this is 
+ running all by itself at 7:00 a.m. every 
+ single morning. And I when I open up my 
+ laptop in the morning, I open up my 
+ Slack, it's going to have the digest for 
+ me right there. Okay, here I am in Slack 
+ and this is the report. This is the 
+ digest that it just sent me. And you 
+ know, it looks pretty good. I like how 
+ it colored it. I don't know what the I 
+ forget actually what the color coding is 
+ supposed to be. Oh, it gives me the full 
+ message here where it gives me new 
+ tools, productivity, and a key insight 
+ that it took from all of the different 
+ newsletters because most of them are 
+ saying the exact same thing. So again, 
+ this scheduled task is such a great 
+ feature because it's saving me so much 
+ time of having to go through every 
+ single one of these newsletters every 
+ day. Okay, for use case number five, 
+ we're going to have Claude do a full UX 
+ audit of my your zone of genius app. 
+ This is my new app for members of my AI 
+ playbook community. And now we're 
+ getting into the stuff that genuinely 
+ feels like the future here with AI. 
+ Okay, so again, what computer use is, it 
+ can see your screen, it can click 
+ buttons, it can type text, scroll 
+ through pages, open apps, etc. It's 
+ basically interacting with anything on 
+ your desktop the way that you would. And 
+ then inside Chrome with the cloud 
+ browser extension, you can turn on 
+ certain permissions. So for example, if 
+ I'm over in Chrome and I click on the 
+ cloud extension, I can come down here 
+ and I can set the necessary permissions 
+ that I'm comfortable with. Ask before 
+ acting or acts or act without asking. 
+ I'd recommend doing ask before acting. 
+ And then again, you can come back over 
+ here in the back end of your cloud 
+ settings and you can add whatever apps 
+ that you want to deny cloud access to. 
+ So you control how to set these up. So 
+ here's the UX audit use case. And I 
+ think this is super super cool. So what 
+ I'm going to do in cloud co-work is I'm 
+ going to tell it to open up my app in a 
+ browser and I'm going to give it the app 
+ URL. So in co-work I'm going to say open 
+ up my app in a browser. I'm going to 
+ give it the URL of my app and I'm going 
+ to say go through the full user flow as 
+ a new member from the onetime passcode 
+ login right through to the dashboard and 
+ identify any UX issues, confusing steps 
+ or friction points that a new user might 
+ or would encounter. So I'm going to make 
+ sure that I'm using Opus 4.6 six model 
+ for this because this is a more complex 
+ type of workflow and click on let's go. 
+ And as you can see here, it's saying let 
+ me load up the browser tools and get 
+ started. So, as always in a co-work 
+ project here, it's mapping out a clear 
+ plan to do all through the steps here. 
+ It's going to give you the progress as 
+ it goes through the steps. So, as you 
+ can see here, it's going through the 
+ login process step by step. It even went 
+ to my email and grabbed the onetime 
+ passcode code to log into my app. And so 
+ it's going through right now the app as 
+ it would a new user. And by the way, for 
+ reference, this is the app. This is my 
+ Arizona Genius app. So I've created an 
+ AI team for members of my community. 
+ Okay. And in less than 15 minutes, it 
+ has completed my full UX audit. So it 
+ says it walked through every screen, 
+ login, etc., etc. Four things I'd fix 
+ first. So I can click on the view the UX 
+ audit here and here is my entire audit 
+ from start to finish. Gives me executive 
+ summary, tells me what works well, 
+ issues identified, etc. I really like 
+ this and so obviously this is super 
+ helpful for me and this is a UX audit 
+ that would normally take a team member 
+ half maybe a full day because I'm going 
+ through documenting the steps, writing 
+ everything out, what works well, what 
+ issues are found. Claude did this in 
+ less than 15 minutes. Okay, for the next 
+ feature, this is the new feature called 
+ Claude visualizations. And to show this 
+ feature in action, the use case I want 
+ to share with you is visualizing my 
+ onboarding flow for the app that I just 
+ showed you. And what this is, Claude can 
+ now create interactive charts, diagrams, 
+ visualizations right inside a 
+ conversation that you're having. And I'm 
+ just in normal Claude chat. You don't 
+ even need co-work for this. So here's 
+ what this prompt looks like. Create an 
+ interactive process flow for how users 
+ get added to the your zone of genius 
+ app. I've listed out the steps. Make 
+ each step clickable to show what 
+ happens. Include decision points for 
+ success slashfailure. So, I'll click go. 
+ I'm going to use the Opus 4.6 model 
+ because this is a little bit more 
+ in-depth of a request that I'm asking it 
+ to do. And you can see here it's 
+ creating the interactive process flow 
+ for the onboarding. And here is the 
+ interactive process flow that I just 
+ created for onboarding, backend 
+ onboarding for the Zona Genius app. And 
+ what I love about it, it's totally 
+ clickable like I asked it to be. So, 
+ step one, admin request access. Step 
+ two, I can click on this and what 
+ happens? The command endpoint, the 
+ decision point, all changes per step. I 
+ can keep clicking through this and this 
+ updates as I click. And another cool 
+ thing with this, if you want, if I want 
+ to export this process flow, this 
+ interactive process flow, I can just use 
+ the mermaid chart connector. So, I can 
+ just go down here to the plus button 
+ here, click on connectors, click on 
+ manage connectors, click on the plus 
+ button, click on browse connectors, and 
+ I can just type in mermaid. So, you can 
+ see here mermaid chart. I can just click 
+ on the plus button here. I can export 
+ the whole interactive flowchart as a 
+ sharable link or as code. If let's just 
+ say that we wanted to embed that into 
+ one of our pages or into notion or 
+ whatever it might be. Makes it super 
+ easy to do it with the mermaid chart uh 
+ connector. Okay. And for use case number 
+ seven, this is what I like to call 
+ finding your first win with co-work. And 
+ this last one is for anyone watching 
+ this video right now saying, "Okay, I 
+ love all this, but where do I actually 
+ start?" Well, inside co-work, there's 
+ now an ideas section. So I can click on 
+ ideas over here and as you can see here 
+ I can sort by all roles or I can sort by 
+ marketing engineering etc. So let's just 
+ say I want to choose marketing. Well I 
+ can do write a blog post or create a 
+ presentation analyze competitors etc. 
+ And let's just say that I want to turn 
+ documents into a presentation. Well by 
+ clicking it it's going to start the 
+ co-work session for me. It's already has 
+ a pre-written prompt here. And then what 
+ it'll do, it's going to ask me any 
+ questions for like assets that are 
+ needed to do this task that I've asked 
+ it to do. It's really, really cool. And 
+ again, you have this full marketplace, 
+ if you will, of pre-done ideas. So, 
+ there you have it. Seven new 
+ mind-blowing Claude use cases. As you 
+ can see, Claude isn't just something 
+ that you chat with anymore. It's 
+ something that actually does the work 
+ for you. And a lot of times, it's doing 
+ it on an automated by itself basis for 
+ you. You've got memory that learns your 
+ business, projects that get smarter 
+ every week. You've got dispatch that 
+ lets you delegate from your phone and 
+ come back to finish files and projects. 
+ Scheduled tasks that run while you're 
+ doing other things. Computer use that 
+ gives Claude access to your actual 
+ screen and allows it to do full-on 
+ projects from start to finish for you. 
+ And also visualizations that you can 
+ build in seconds and also download. So 
+ again, if you're an online business 
+ owner and you're looking for the easy 
+ button when it comes to leveraging AI in 
+ your business, if you want to get access 
+ to the full AI team that I have 
+ available inside my Zona Genius app and 
+ the community I have, then I invite you 
+ to join us inside my AI playbook 
+ community. I'll link to it in the 
+ description below. As always, thanks so 
+ much for watching today's video. 
+ Appreciate you.

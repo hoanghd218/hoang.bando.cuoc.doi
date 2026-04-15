@@ -262,69 +262,19 @@ Khi Tony Hoang 80 tuổi, người ta sẽ nói về anh:
 
 ---
 
+# PHẦN 5B: ROADMAP CHI TIẾT 7 LĨNH VỰC
+
+> Chi tiết từng lĩnh vực xem tại: [roadmaps/](roadmaps/)
+> - [Tổng quan 7 lĩnh vực](roadmaps/00-tong-quan-7-linh-vuc.md)
+> - [1. Sức khỏe](roadmaps/01-suc-khoe/) | [2. Sự nghiệp](roadmaps/02-su-nghiep/) | [3. Tài chính](roadmaps/03-tai-chinh/)
+> - [4. Gia đình](roadmaps/04-gia-dinh/) | [5. Phát triển](roadmaps/05-phat-trien-ban-than/) | [6. Trải nghiệm](roadmaps/06-trai-nghiem/) | [7. Đóng góp](roadmaps/07-dong-gop/)
+
+---
+
 # PHẦN 6: ACTION PLAN 90 NGÀY ĐẦU TIÊN (04/2026 - 07/2026)
 
-## Sprint 1: "Nền tảng" (Tháng 4-6/2026)
-
-### Tuần 1-2 (08/04 - 21/04)
-- [ ] Hoàn thiện AI Agent cho POD (MVP)
-- [ ] Lên kế hoạch viết sách #1 (outline + 3 chương đầu)
-- [ ] Đăng ký giải Half Marathon (tìm giải phù hợp cuối 2026 hoặc đầu 2027)
-- [ ] Bắt đầu học bơi: đăng ký lớp bơi 2 buổi/tuần
-
-### Tuần 3-4 (22/04 - 05/05)
-- [ ] Ra mắt beta AI Agent POD cho FreedomBuilder community (test miễn phí)
-- [ ] Viết tiếp sách #1 (chương 4-7)
-- [ ] Xây dựng kế hoạch subscription cho FreedomBuilder (giá, tier, content)
-- [ ] Chạy bộ: tăng lên 3 buổi/tuần, mục tiêu sub-2h45 Half Marathon
-
-### Tuần 5-8 (06/05 - 02/06)
-- [ ] Thu thập feedback từ beta users, cải thiện AI Agent
-- [ ] Hoàn thành bản thảo sách #1
-- [ ] Bắt đầu lên nội dung cho subscription tier (khóa học, template, community)
-- [ ] Làm 3 video YouTube/tuần (giữ nhịp)
-- [ ] Bơi: mục tiêu bơi liên tục 200m
-
-### Tuần 9-12 (03/06 - 30/06)
-- [ ] Ra mắt AI Agent POD phiên bản trả phí (pricing v1)
-- [ ] Ra mắt FreedomBuilder subscription
-- [ ] Xuất bản sách #1 (Amazon KDP hoặc self-publish)
-- [ ] Bắt đầu outline sách #2
-- [ ] Review 90 ngày: doanh thu, members, sức khỏe, gia đình
-
-### Mục tiêu kết thúc Sprint 1 (cuối tháng 6/2026):
-- Có ít nhất 10-50 khách hàng trả tiền cho AI Agent
-- FreedomBuilder bắt đầu có doanh thu subscription
-- Sách #1 đã xuất bản
-- Bơi được 200m liên tục
-- Chạy bộ sub-2h45 cho 21km
-- Vẫn duy trì 30p/ngày dạy con + 4h/tuần gia đình
-
----
-
-## CHỈ SỐ THEO DÕI HÀNG THÁNG (KPIs)
-
-| Lĩnh vực | Chỉ số | Mục tiêu tháng |
-|---------|--------|---------------|
-| **Tài chính** | Doanh thu tháng | Tăng 30% MoM |
-| **Sản phẩm** | Số khách hàng trả tiền | +10-20/tháng |
-| **Cộng đồng** | FreedomBuilder members | +500/tháng |
-| **YouTube** | Video/tuần | 3 video |
-| **Sức khỏe** | Số buổi tập/tuần | 5 buổi (3 chạy + 2 bơi/gym) |
-| **Gia đình** | Thời gian gia đình/tuần | 30p/ngày + 4h cuối tuần |
-| **Học tập** | Giờ học/ngày | 2h (4h-6h sáng) |
-| **Kỷ luật** | Số ngày dậy 4h sáng/tuần | 6/7 ngày (cho phép 1 ngày off) |
-
----
-
-## CÂU HỎI HÀNG NGÀY (Tony Robbins Morning Questions)
-
-Mỗi sáng 4h, tự hỏi:
-
-1. **Mình đang đi đúng hướng chưa?** (So với bản đồ cuộc đời này)
-2. **Hôm nay việc quan trọng nhất là gì?** (1 việc tiến gần $1M target)
-3. **Mình biết ơn điều gì?** (Giữ tinh thần tích cực)
-4. **Mình có thể giúp ai hôm nay?** (Cộng đồng, gia đình)
+> Chi tiet xem tai: [action-plan-90-ngay-sprint1.md](action-plans/action-plan-90-ngay-sprint1.md)
+> (Bao gom: ke hoach tung tuan, KPIs, muc tieu Sprint 1, thuong hieu ca nhan)
 
 ---
 
